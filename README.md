@@ -1,4 +1,4 @@
-# 🪈 GitaSaar 🪶
+![Image - 4](https://github.com/user-attachments/assets/699f4af6-5807-46ee-ba8e-0a62dcbe323e)# 🪈 GitaSaar 🪶
 
 ## Check it on : https://gitasaar.vercel.app/
 
@@ -85,12 +85,21 @@ NOTE: Firstly you give voice 🎤 permission
 
 ## UI:
 
-![Image - 1](https://github.com/user-attachments/assets/ef2a0e19-ae49-4f4b-8e02-f806af635f8a)
+![Image - 9](https://github.com/user-attachments/assets/a7e08f1c-1564-4dcd-b300-0ec8de8ec436)
+![Image - 8](https://github.com/user-attachments/assets/8d3154fb-1e46-40e1-a2af-b5016a6af193)
+![Image - 7](https://github.com/user-attachments/assets/34119702-aa8a-45b4-b44d-69a2ab4c7314)
+![Image - 6](https://github.com/user-attachments/assets/27fb3e6a-15eb-461d-90e0-45c5bdb9757f)
+![Image - 5](https://github.com/user-attachments/assets/69dcdf6a-dc12-46c6-b3dc-fa67809b5a41)
+![Image - 4](https://github.com/user-attachments/assets/899b647a-8e73-4ed3-ad3a-6299021e56f9)
+![Image - 3](https://github.com/user-attachments/assets/7538ac45-653b-4c8a-be72-59e46873a88b)
+![Image - 2](https://github.com/user-attachments/assets/c3823cab-bb25-4e91-8089-41845afc444f)
+![Image - 1](https://github.com/user-attachments/assets/bb8150ba-990d-42e2-9020-f996360cb606)
+
 
 
 ## Demo 🎥
 
-![Project-Demo](UI & DEMO\Project Demo.mp4)
+
 
 ## License
 
