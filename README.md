@@ -1,4 +1,4 @@
-![Image - 4](https://github.com/user-attachments/assets/699f4af6-5807-46ee-ba8e-0a62dcbe323e)# 🪈 GitaSaar 🪶
+# 🪈 GitaSaar 🪶
 
 ## Check it on : https://gitasaar.vercel.app/
 
