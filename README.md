@@ -99,8 +99,7 @@ NOTE: Firstly you give voice 🎤 permission
 
 ## Demo 🎥
 
-[UI & DEMO\Project Demo.mp4](https://private-user-images.githubusercontent.com/167104440/328149136-bbbfe550-27f6-4ee6-9e59-d276ba5add92.mp4?
-
+https://github.com/user-attachments/assets/f524d7d1-ff7c-4834-8708-9992804b6c8f
 
 ## License
 
