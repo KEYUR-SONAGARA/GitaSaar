@@ -85,15 +85,8 @@ NOTE: Firstly you give voice 🎤 permission
 
 ## UI:
 
-![Image-1](UI & DEMO\Image - 1.png)
-![Image-2](UI & DEMO\Image - 2.png)
-![Image-3](UI & DEMO\Image - 3.png)
-![Image-4](UI & DEMO\Image - 4.png)
-![Image-5](UI & DEMO\Image - 5.png)
-![Image-6](UI & DEMO\Image - 6.png)
-![Image-7](UI & DEMO\Image - 7.png)
-![Image-8](UI & DEMO\Image - 8.png)
-![Image-9](UI & DEMO\Image - 9.png)
+![Image - 1](https://github.com/user-attachments/assets/ef2a0e19-ae49-4f4b-8e02-f806af635f8a)
+
 
 ## Demo 🎥
 
